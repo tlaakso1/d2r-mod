@@ -16696,7 +16696,7 @@
   {
     "id": 20435,
     "Key": "cm1",
-    "enUS": "Small Charm",
+    "enUS": "ÿcNSmall Charm",
     "zhTW": "小型咒符",
     "deDE": "[ms]Kleiner Zauber",
     "esES": "[ms]Dije pequeño",
@@ -16713,7 +16713,7 @@
   {
     "id": 20436,
     "Key": "cm2",
-    "enUS": "Large Charm",
+    "enUS": "ÿcNLarge Charm",
     "zhTW": "大型咒符",
     "deDE": "[ms]Großer Zauber",
     "esES": "[ms]Dije grande",
@@ -16730,7 +16730,7 @@
   {
     "id": 20437,
     "Key": "cm3",
-    "enUS": "Grand Charm",
+    "enUS": "ÿcNGrand Charm",
     "zhTW": "特大咒符",
     "deDE": "[ms]Riesenzauber",
     "esES": "[ms]Dije enorme",
