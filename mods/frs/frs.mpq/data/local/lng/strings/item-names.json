@@ -4881,7 +4881,7 @@
   {
     "id": 2218,
     "Key": "aqv",
-    "enUS": "Arrows",
+    "enUS": "",
     "zhTW": "弓矢",
     "deDE": "Pfeile",
     "esES": "[fp]Flechas",
@@ -4915,7 +4915,7 @@
   {
     "id": 2220,
     "Key": "cqv",
-    "enUS": "Bolts",
+    "enUS": "",
     "zhTW": "弩箭",
     "deDE": "Bolzen",
     "esES": "[fp]Saetas",
