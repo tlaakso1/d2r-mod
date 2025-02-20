@@ -11,6 +11,10 @@ Simple changes to item labels
 
 # Full list of changes
 
+* Change item label font size from 36 to 30
+* High runes have light beams
+* High runes have bigger text box
+
 ## General items
 
 | Old                      | New                                       |
