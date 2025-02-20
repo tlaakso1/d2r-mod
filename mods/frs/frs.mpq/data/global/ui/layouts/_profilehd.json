@@ -87,7 +87,7 @@
     "XMediumFontSize": 28, // Usage:Secondary Action Center Buttons, Character list title and level text
     "MediumFontSize": 26, // Usage : Settings field text
     "SmallFontSize": 22,
-    "TooltipFontSize": 24,
+    "TooltipFontSize": 30,
     "CinematicsFontSize": 32,
     "AddFriendModalFontSize": 26, // Usage: AddFriendModal needs to be the same size in all profiles to support IME
     "GameNameFilterFontSize": 28, // Usage: it needs to be the same size in all profiles
