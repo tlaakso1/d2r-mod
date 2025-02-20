@@ -13,37 +13,38 @@ Simple changes to item labels
 
 ## General items
 
-| Old                      | New              |
-|--------------------------|------------------|
-| Rejuvenation Potion      | RP               |
-| Full Rejuvenation Potion | ${\textsf{\color{purple}FRP}}$ |
+| Old                      | New                                       |
+|--------------------------|-------------------------------------------|
+| Rejuvenation Potion      | RP                                        |
+| Full Rejuvenation Potion | ${\textsf{\color{purple}FRP}}$            |
+| Jewel                        | ${\textsf{\color{turquoise}Jewel}}$       |
 | Small Charm              | ${\textsf{\color{turquoise}Small Charm}}$ |
 | Large Charm              | ${\textsf{\color{turquoise}Large Charm}}$ |
 | Grand Charm              | ${\textsf{\color{turquoise}Grand Charm}}$ |
-| Minor Healing Potion     | HP1              |
-| Light Healing Potion     | HP2              |
-| Healing Potion           | HP3              |
-| Greater Healing Potion   | HP4              |
-| Super Healing Potion     | HP5              |
-| Minor Mana Potion        | MP1              |
-| Light Mana Potion        | MP2              |
-| Mana Potion              | MP3              |
-| Greater Mana Potion      | MP4              |
-| Super Mana Potion        | MP5              |
-| Fulminating Potion       |                  |
-| Exploding Potion         |                  |
-| Oil Potion               |                  |
-| Strangling Gas Potion    |                  |
-| Choking Gas Potion       |                  |
-| Rancid Gas Potion        |                  |
-| Antidote Potion          | AP               |
-| Stamina Potion           | SP               |
-| Thawing Potion           | TP               |
-| Scroll of Town Portal    | TP scroll        |
-| Scroll of Identify       | Id scroll        |
-| Gold                     |                  |
-| Arrows                   |                  |
-| Bolts                    |                  |
+| Minor Healing Potion     | HP1                                       |
+| Light Healing Potion     | HP2                                       |
+| Healing Potion           | HP3                                       |
+| Greater Healing Potion   | HP4                                       |
+| Super Healing Potion     | HP5                                       |
+| Minor Mana Potion        | MP1                                       |
+| Light Mana Potion        | MP2                                       |
+| Mana Potion              | MP3                                       |
+| Greater Mana Potion      | MP4                                       |
+| Super Mana Potion        | MP5                                       |
+| Fulminating Potion       |                                           |
+| Exploding Potion         |                                           |
+| Oil Potion               |                                           |
+| Strangling Gas Potion    |                                           |
+| Choking Gas Potion       |                                           |
+| Rancid Gas Potion        |                                           |
+| Antidote Potion          | AP                                        |
+| Stamina Potion           | SP                                        |
+| Thawing Potion           | TP                                        |
+| Scroll of Town Portal    | TP scroll                                 |
+| Scroll of Identify       | Id scroll                                 |
+| Gold                     |                                           |
+| Arrows                   |                                           |
+| Bolts                    |                                           |
 
 ## Gems
 
