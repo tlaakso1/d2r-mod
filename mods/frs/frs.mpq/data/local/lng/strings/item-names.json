@@ -4371,7 +4371,7 @@
   {
     "id": 2182,
     "Key": "gpl",
-    "enUS": "GP1",
+    "enUS": "",
     "zhTW": "刺鼻毒氣藥水",
     "deDE": "Erstickungsgaselixier",
     "esES": "[fs]Poción de gas sofocante",
@@ -4388,7 +4388,7 @@
   {
     "id": 2183,
     "Key": "opl",
-    "enUS": "FP1",
+    "enUS": "",
     "zhTW": "烈性藥水",
     "deDE": "Knallelixier",
     "esES": "[fs]Poción fulminante",
@@ -4405,7 +4405,7 @@
   {
     "id": 2184,
     "Key": "gpm",
-    "enUS": "GP2",
+    "enUS": "",
     "zhTW": "窒息毒氣藥水",
     "deDE": "Würgegaselixier",
     "esES": "[fs]Poción de gas estrangulante",
@@ -4422,7 +4422,7 @@
   {
     "id": 2185,
     "Key": "opm",
-    "enUS": "FP2",
+    "enUS": "",
     "zhTW": "爆炸藥水",
     "deDE": "Explosivelixier",
     "esES": "[fs]Poción explosiva",
@@ -4439,7 +4439,7 @@
   {
     "id": 2186,
     "Key": "gps",
-    "enUS": "GP3",
+    "enUS": "",
     "zhTW": "腐臭毒氣藥水",
     "deDE": "Stinkgaselixier",
     "esES": "[fs]Poción de gas rancio",
@@ -4456,7 +4456,7 @@
   {
     "id": 2187,
     "Key": "ops",
-    "enUS": "FP3",
+    "enUS": "",
     "zhTW": "火油藥水",
     "deDE": "Ölelixier",
     "esES": "[fs]Poción de aceite",
@@ -5629,7 +5629,7 @@
   {
     "id": 2270,
     "Key": "hp5",
-    "enUS": "ÿc1HP5",
+    "enUS": "HP5",
     "zhTW": "特效生命藥水",
     "deDE": "starker Heiltrank",
     "esES": "Superpoción de salud",
@@ -5714,7 +5714,7 @@
   {
     "id": 2275,
     "Key": "mp5",
-    "enUS": "ÿc3MP5",
+    "enUS": "MP5",
     "zhTW": "特效法力藥水",
     "deDE": "starker Manatrank",
     "esES": "Superpoción de maná",
